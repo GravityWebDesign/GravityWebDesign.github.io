@@ -87,7 +87,7 @@
 
 /*  Massive Jumbotron section  */
 .jumbo2 {
-	background-image: url('Glassrepair2.JPG');
+	background-image: url('GlassRepair2.jpg');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	height: 500px;
@@ -153,7 +153,7 @@ body, html {
 }
 
 .gallery {
-	background-image: url(background-pattern3.jpg);
+	background-image: url('background-pattern3.jpg');
 	/*background: linear-gradient(#004092, #020202, transparent), url("background-pattern2.jpg"); */
 	height: 600px;
 }
